@@ -1,0 +1,6 @@
+ticket_id,summary,status,air_hops,air_days,resolution_time_days,priority,assignee,created_at,resolved_at
+PROJXYZ-1211,API returns 500 on GET /prices,Done,3,4.5,7,High,alice,2025-11-01,2025-11-08
+PROJXYZ-1212,UI validation error on contact number field,Done,1,0.5,2,Medium,bob,2025-11-03,2025-11-05
+PROJXYZ-1213,Order status not updating in UI,In Progress,2,3.0,5,High,charlie,2025-11-05,2025-11-10
+PROJXYZ-1214,Slow response time on search endpoint,Done,0,0.0,1,Low,dana,2025-11-06,2025-11-07
+PROJXYZ-1215,Customer data sync failing,Done,4,5.5,9,Critical,alice,2025-11-01,2025-11-10
