@@ -305,6 +305,7 @@ Supports:
 - Any Jira like CSV with compatible schema
 
 📌 Future scope: integrate direct Jira REST API & GitHub Issues API
+
 No CSV required → real-time operational intelligence.
 
 ### Sessions & Memory
@@ -314,7 +315,7 @@ Two-layer memory system:
 | Type             | Purpose                                                        |
 | ---------------- | -------------------------------------------------------------- |
 | Session Memory   | Maintains question/response context during a single analysis   |
-| Long-Term Memory | Stores org-specific rules (e.g., SLA values, delay categories) |
+| Long-Term Memory | Stores org-specific rules (Ex: SLA values, delay categories) |
 
 ### Observability & Evaluation
 
@@ -375,7 +376,7 @@ Upload a CSV, and chat.
 
 FlowPilot provides actionable engineering workflow insighta:
 
-- Top 3 bottleneck statuses (ex: “Waiting for Customer”)
+- Top 3 bottleneck statuses (Ex: “Waiting for Customer”)
 
 - SLA predictability & improvement trend tracking
 
